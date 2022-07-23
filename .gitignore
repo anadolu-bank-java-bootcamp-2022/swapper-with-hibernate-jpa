@@ -1,0 +1,13 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Java
+target/
+
+# Jetbrains
+.idea/
+
+# Misc
+.DS_Store
